@@ -2,15 +2,10 @@
 
 The OTMJ (Object Detection in Mountain Jungle) dataset is an RGB dataset used for object tracking in mountainous jungle scenes.
 
-
-
 ## News
 
 **[August 7, 2024]**
-
-​    We have open-source the OTMJ dataset, which now includes 24 drone target tracking sequences in mountainous and jungle scenes. Additionally, you can view the comparison of our TrackingMamba with advanced trackers on the current OTMJ dataset at [[TrackingMamba](https://github.com/KustTeamWQW/TrackingMamba)]
-
-
+We have open-source the OTMJ dataset, which now includes 24 drone target tracking sequences in mountainous and jungle scenes. Additionally, you can view the comparison of our TrackingMamba with advanced trackers on the current OTMJ dataset at [[TrackingMamba](https://github.com/KustTeamWQW/TrackingMamba)]
 
 ## Introduction
 
