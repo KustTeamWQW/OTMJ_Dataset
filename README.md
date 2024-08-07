@@ -10,7 +10,7 @@ We have open-source the OTMJ dataset, which now includes 24 drone target trackin
 
 ## Introduction
 
-​    ![Yunnan topographic map](E:\Users\Desktop\Yunnan topographic map.png)
+​    ![Yunnan topographic map](https://github.com/KustTeamWQW/OTMJ_Dataset/blob/main/img/Yunnan_topographic_map.png)
 
 ​                                                                                Fig.1.  Yunnan topographic map.
 
